@@ -1,0 +1,68 @@
+= Laporan Rilis dan _Deployment_ Layanan Teknologi Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+[preface]
+== Dokumentasi Rilis
+
+Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book.  Some text to describe preface of the book. Some text to describe preface of the book.
+
+=== Ruang Lingkup
+
+Isi ruang lingkup
+
+=== Fungsionalitas
+
+Isi fungsionalitas pada rilis
+
+=== Permasalahan yang diselesaikan oleh rilis
+
+Isi solusi
+
+
+== Dokumentasi Pengujian Rilis
+
+=== Penjelasan Fitur yang Diuji dan Prosedurnya
+
+=== Lingkungan Pengujian
+
+=== Prasyarat pengujian (jika ada)
+
+== Rencana Implementasi Rilis
+
+=== Daftar Sumber Daya yang Terlibat
+
+=== Jadwal Implementasi
+
+=== Dukungan Implementasi
+
+== Panduan Teknis Implementasi
+
+=== Kebutuhan Perangkat
+
+=== Prosedur Instalasi
+
+=== Prosedur Konfigurasi
+
